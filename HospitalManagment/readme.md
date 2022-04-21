@@ -7,4 +7,5 @@ this is simple java desktop application  which have
    4  patient record page
    5 full patientinformation page
    6  hospital information page
-   7  connection provider 
+   7  connection provider .
+   
